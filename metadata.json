@@ -1,0 +1,5 @@
+{
+  "name": "WATCH'D",
+  "description": "Identify any wrist watch from an image and get detailed battery specifications using AI.",
+  "requestFramePermissions": ["camera"]
+}
